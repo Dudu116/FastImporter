@@ -10,7 +10,9 @@ Kor Description
 ✔ FastImporter 특징
 
 파일이름이 레이어이름이 됩니다.
+
 스마트 오브젝트로 불러와져서 링크 작업하기가 수월합니다.
+
 jpg, tif, png, psd 확장자를 지원합니다.
 
 
